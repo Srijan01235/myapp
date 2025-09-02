@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#f8f9fa"/>
+  <!-- Saucer -->
+  <ellipse cx="200" cy="230" rx="60" ry="15" fill="#ffffff" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Cup -->
+  <path d="M160 220 Q160 180 180 160 L220 160 Q240 180 240 220 L240 220 Q240 225 235 225 L165 225 Q160 225 160 220" fill="#ffffff" stroke="#8b4513" stroke-width="2"/>
+  
+  <!-- Coffee -->
+  <path d="M165 215 Q165 185 180 170 L220 170 Q235 185 235 215" fill="#6f4e37"/>
+  
+  <!-- Coffee foam -->
+  <ellipse cx="200" cy="175" rx="30" ry="8" fill="#deb887"/>
+  
+  <!-- Steam -->
+  <path d="M185 155 Q185 145 190 140 Q190 135 185 130" stroke="#d3d3d3" stroke-width="2" fill="none"/>
+  <path d="M200 155 Q200 145 205 140 Q205 135 200 130" stroke="#d3d3d3" stroke-width="2" fill="none"/>
+  <path d="M215 155 Q215 145 220 140 Q220 135 215 130" stroke="#d3d3d3" stroke-width="2" fill="none"/>
+  
+  <!-- Handle -->
+  <path d="M240 190 Q255 190 255 205 Q255 220 240 220" stroke="#8b4513" stroke-width="3" fill="none"/>
+  
+  <!-- Text -->
+  <text x="200" y="50" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold" fill="#495057">Fresh Coffee</text>
+</svg>

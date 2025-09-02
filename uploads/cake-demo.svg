@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#f8f9fa"/>
+  <!-- Plate -->
+  <ellipse cx="200" cy="230" rx="80" ry="20" fill="#ffffff" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Cake base -->
+  <rect x="160" y="180" width="80" height="40" fill="#8b4513"/>
+  <ellipse cx="200" cy="180" rx="40" ry="10" fill="#a0522d"/>
+  
+  <!-- Cake layer -->
+  <rect x="165" y="150" width="70" height="30" fill="#654321"/>
+  <ellipse cx="200" cy="150" rx="35" ry="8" fill="#8b4513"/>
+  
+  <!-- Frosting -->
+  <rect x="170" y="140" width="60" height="15" fill="#ffe4e1"/>
+  <ellipse cx="200" cy="140" rx="30" ry="6" fill="#ffb6c1"/>
+  
+  <!-- Cherry on top -->
+  <circle cx="200" cy="135" r="4" fill="#dc3545"/>
+  <rect x="199" y="130" width="2" height="5" fill="#28a745"/>
+  
+  <!-- Chocolate drips -->
+  <path d="M175 150 Q175 155 170 155 Q175 155 175 160" fill="#654321"/>
+  <path d="M225 150 Q225 155 230 155 Q225 155 225 160" fill="#654321"/>
+  
+  <!-- Text -->
+  <text x="200" y="50" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold" fill="#495057">Chocolate Cake</text>
+</svg>

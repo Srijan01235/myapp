@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#f8f9fa"/>
+  <!-- Bowl -->
+  <ellipse cx="200" cy="220" rx="120" ry="40" fill="#e9ecef"/>
+  <ellipse cx="200" cy="200" rx="120" ry="40" fill="#ffffff" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Salad leaves -->
+  <ellipse cx="180" cy="180" rx="25" ry="15" fill="#28a745" transform="rotate(-15 180 180)"/>
+  <ellipse cx="220" cy="175" rx="30" ry="18" fill="#20c997" transform="rotate(20 220 175)"/>
+  <ellipse cx="200" cy="190" rx="28" ry="16" fill="#198754"/>
+  <ellipse cx="160" cy="190" rx="20" ry="12" fill="#40e0d0" transform="rotate(-30 160 190)"/>
+  <ellipse cx="240" cy="185" rx="22" ry="14" fill="#32cd32" transform="rotate(45 240 185)"/>
+  
+  <!-- Tomatoes -->
+  <circle cx="190" cy="185" r="8" fill="#dc3545"/>
+  <circle cx="210" cy="180" r="6" fill="#e74c3c"/>
+  
+  <!-- Text -->
+  <text x="200" y="50" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold" fill="#495057">Fresh Salad</text>
+</svg>
